@@ -44,3 +44,29 @@ ctrl u ->underline
 alt shift d->strike
 ctrl y ->redo
 ```
+
+###7 Creating and editing links
+####01:00
+highlight text,paste hyperlink  
+
+
+
+##8. Extending Wordpress with Plugins
+###4 Some useful plugin types to start with
+Jetpack - allinone solution
+
+###5 A sample set of plugins on the demo site
+[contact form 7]
+Contact - Contact Forms
+
+[limit login attempts]
+settings-limit login attempts
+
+[regenerate thumbnails]
+tools-regenerate thumbnails
+
+##12. WordPress: Behind
+3folders: wp-admin, wp-content, wp-includes  
+not replaceable:wp-content, wp-config.php
+
+
